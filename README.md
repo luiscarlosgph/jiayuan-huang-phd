@@ -20,7 +20,7 @@ Log
 
 | Meeting reason | Duration | Date |
 | ---------------| -------- | ---- |
-| [Introductory meeting](minutes/2023/10_oct_2023.md) | 2h | 10<sup>th</sup> Oct 2023 |
+| [Introductory meeting](minutes/2023/10_oct_2023.md) | 2h | 31<sup>st</sup> Oct 2025 |
 
 
 Paper drafts
