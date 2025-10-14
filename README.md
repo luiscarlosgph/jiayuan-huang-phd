@@ -12,7 +12,7 @@ Timeframe
 Timetable
 ---------
 
-<img width="720" alt="Screenshot 2023-10-23 at 15 18 05" src="https://github.com/luiscarlosgph/chengan-che-phd/assets/58721279/65dd3f3e-0e38-4c19-8035-e55062fed021">
+[ Please paste here your table with the deadline of your progress reports from Student Records ]
 
 
 Log
