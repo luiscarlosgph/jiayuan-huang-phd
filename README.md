@@ -1,7 +1,7 @@
 Description
 -----------
 
-Log of the PhD meetings with Chengan Che.
+Log of the PhD meetings with Jiayuan Huang.
 
 
 Timeframe
