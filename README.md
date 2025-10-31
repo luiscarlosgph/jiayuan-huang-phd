@@ -20,8 +20,8 @@ Log
 
 | Meeting reason | Duration | Date |
 | ---------------| -------- | ---- |
-| [Introductory meeting](minutes/2025/31_oct_2025.md) | 2h | 31<sup>st</sup> Oct 2025 |
-| [First Literature Review](minutes/2025/07_nov_2025.md) | 1h | 7<sup>th</sup> Nov 2025 |
+| [Introductory meeting](minutes/2025/06_oct_2025.md) | 2h | 31<sup>st</sup> Oct 2025 |
+| [First Literature Review](minutes/2025/31_oct_2025.md) | 1h | 7<sup>th</sup> Nov 2025 |
 
 
 
