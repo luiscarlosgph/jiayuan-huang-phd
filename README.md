@@ -22,7 +22,7 @@ Log
 | ---------------| -------- | ---- |
 | [Introductory meeting](minutes/2025/06_oct_2025.md) | 1h | 06<sup>st</sup> Oct 2025 |
 | [First Literature Review](minutes/2025/31_oct_2025.md) | 1h | 31<sup>th</sup> Oct 2025 |
-| [Research Catchup](minutes/2025/24_Nov_2025.md) | 2h | 24<sup>th</sup> Nov 2025 |
+| [Research Catchup](minutes/2025/24_nov_2025.md) | 2h | 24<sup>th</sup> Nov 2025 |
 
 
 
