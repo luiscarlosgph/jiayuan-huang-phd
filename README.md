@@ -24,6 +24,7 @@ Log
 | [First Literature Review](minutes/2025/31_oct_2025.md) | 1h | 31<sup>th</sup> Oct 2025 |
 | [Research Catchup](minutes/2025/24_nov_2025.md) | 2h | 24<sup>th</sup> Nov 2025 |
 | [Regular Progress update](minutes/2025/28_nov_2025.md) | 1h | 28<sup>th</sup> Nov 2025 |
+| [Regular Progress update](minutes/2025/05_dec_2025.md) | 1h | 05<sup>th</sup> Dec 2025 |
 
 
 
