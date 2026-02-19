@@ -26,6 +26,11 @@ Log
 | [Regular Progress update](minutes/2025/28_nov_2025.md) | 1h | 28<sup>th</sup> Nov 2025 |
 | [Regular Progress update](minutes/2025/05_dec_2025.md) | 1h | 05<sup>th</sup> Dec 2025 |
 | [Regular Progress update](minutes/2025/11_dec_2025.md) | 1h | 11<sup>th</sup> Dec 2025 |
+| [Regular Progress update](minutes/2026/09_jan_2025.md) | 1h | 09<sup>th</sup> Jan 2026 |
+| [Regular Progress update](minutes/2026/30_jan_2025.md) | 1h | 30<sup>th</sup> Jan 2026 |
+| [Regular Progress update](minutes/2026/06_feb_2025.md) | 1h | 06<sup>th</sup> Jan 2026 |
+| [Regular Progress update](minutes/2026/13_feb_2025.md) | 1h | 13<sup>th</sup> Jan 2026 |
+
 
 
 
