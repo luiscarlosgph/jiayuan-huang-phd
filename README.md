@@ -55,10 +55,10 @@ Holidays
 * **2026**:
    | Start date | End date | Which days? | Number of days |
    | -----------| -------- | ----------- | -------------- |
-   | DD/MM/YYYY | DD/MM/YYYY | DD/MM/YYYY-DD/MM/YYYY, DD/MM/YYYY-DD/MM/YYYY |  XX |
+   | 15/02/2026 | 15/02/2026 | 5/02/2026-5/02/2026|  1 |
 
    * Days off remaining from last year: X 
-   * Days off remaining this year: 27 (27 in total)
+   * Days off remaining this year: 26 (27 in total)
   
 * [Bank holidays](https://www.gov.uk/bank-holidays)
 * [KCL closure days](https://self-service.kcl.ac.uk/article/KA-01444/en-us)
