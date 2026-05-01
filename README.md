@@ -36,6 +36,7 @@ Log
 | [Regular Progress update](minutes/2026/13_mar_2026.md) | 1h | 13<sup>th</sup> Mar 2026 |
 | [Regular Progress update](minutes/2026/20_mar_2026.md) | 1h | 20<sup>th</sup> Mar 2026 |
 | [Regular Progress update](minutes/2026/17_April_2026.md) | 1.5h | 17<sup>th</sup> April 2026 |
+| [Regular Progress update](minutes/2026/1_May_2026.md) | 1h | 1<sup>st</sup> May 2026 |
 
 
 
