@@ -66,12 +66,13 @@ Holidays
    * Days off remaining this year: 5 (5 in total).
 
 * **2026**:
-   | Start date | End date | Which days? | Number of days |
-   | -----------| -------- | ----------- | -------------- |
-   | 15/02/2026 | 15/02/2026 | 5/02/2026-5/02/2026|  1 |
+   | Start date | End date   | Which days? | Number of days           | 
+   | -----------| ---------- | --------------------- | -------------- |
+   | 15/02/2026 | 15/02/2026 | 5/02/2026-5/02/2026   |  1             |
+   | 18/05/2026 | 22/05/2026 | 18/05/2026-22/05/2026 |  5             | 
 
-   * Days off remaining from last year: X 
-   * Days off remaining this year: 26 (27 in total)
+   * Days off remaining from last year: 0
+   * Days off remaining this year: 27 (27 in total)
   
 * [Bank holidays](https://www.gov.uk/bank-holidays)
 * [KCL closure days](https://self-service.kcl.ac.uk/article/KA-01444/en-us)
