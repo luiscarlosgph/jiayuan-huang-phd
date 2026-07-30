@@ -54,6 +54,8 @@ I then tested on real-world dataset HAM10000, <img width="600" height="292" alt=
 On this dataset, both maxherding and typiclust failed.  Typiclust_oracle also failed. 
 In this case, class coverage is not the dominant factor 
 <img width="1181" height="713" alt="image" src="https://github.com/user-attachments/assets/6ccedb0a-6647-4aea-89b4-1213b8873f69" />
+<img width="1181" height="713" alt="image" src="https://github.com/user-attachments/assets/7ca5b30c-daf2-4ab0-8645-3794a89285b2" />
+
 
 
 
