@@ -55,6 +55,7 @@ On this dataset, both maxherding and typiclust failed.  Typiclust_oracle also fa
 In this case, class coverage is not the dominant factor 
 <img width="1181" height="713" alt="image" src="https://github.com/user-attachments/assets/6ccedb0a-6647-4aea-89b4-1213b8873f69" />
 <img width="1181" height="713" alt="image" src="https://github.com/user-attachments/assets/7ca5b30c-daf2-4ab0-8645-3794a89285b2" />
+<img width="1936" height="1125" alt="image" src="https://github.com/user-attachments/assets/e7021ba7-10e8-4578-99ec-6a4d66de0080" />
 
 
 
