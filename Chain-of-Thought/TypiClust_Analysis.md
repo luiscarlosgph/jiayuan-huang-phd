@@ -57,6 +57,13 @@ In this case, class coverage is not the dominant factor
 <img width="1181" height="713" alt="image" src="https://github.com/user-attachments/assets/7ca5b30c-daf2-4ab0-8645-3794a89285b2" />
 <img width="1936" height="1125" alt="image" src="https://github.com/user-attachments/assets/e7021ba7-10e8-4578-99ec-6a4d66de0080" />
 
+## Next step
+Analyse why these CSAL works bad on HAM10000.
+Possible way to explore:
+1. verify if it is because of the bad embedding
+2. verify if it's because of the way to calculate typicality.
+3. IS it because typical data in this dataset can't help improve model?
+
 
 
 
