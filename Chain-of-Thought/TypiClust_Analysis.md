@@ -20,10 +20,11 @@ In the mean time, in each cluster, it chooses the sample whose density is the hi
 
 ### Limitations
 - It works worse than random sampling when budget is not extremely low. "When is extremely low or when to switch to another strategy is not defined well".
-- Although this paper claims that it can work well on human-crafted long-tailed Cifar10 dataset. However it is not verified on real world imbalanced dataset.
+- Although this paper claims that it can work well on human-crafted long-tailed Cifar10 dataset. However it is not verified on real world imbalanced dataset. It's not convincing.
+<img width="772" height="337" alt="image" src="https://github.com/user-attachments/assets/1ed23a59-4663-4f92-b263-816e8f2c3305" />
+
 - Although Clustering can obtain high diversity. But it can't guarantee that it will cover all classes.
 
 ### Investigating failure settings
-In TypiClust paper, they only test typiClust on a single hand-crafted lont-tail CIFAR-10 dataset, it's not convincing.
-<img width="772" height="337" alt="image" src="https://github.com/user-attachments/assets/1ed23a59-4663-4f92-b263-816e8f2c3305" />
+
 
