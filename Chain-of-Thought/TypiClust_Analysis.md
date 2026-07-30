@@ -21,3 +21,4 @@ In the mean time, in each cluster, it chooses the sample whose density is the hi
 ### Limitations
 - It works worse than random sampling when budget is not extremely low. "When is extremely low or when to switch to another strategy is not defined well".
 - Although this paper claims that it can work well on human-crafted long-tailed Cifar10 dataset. However it is not verified on real world imbalanced dataset.
+- [] look for another limitation
