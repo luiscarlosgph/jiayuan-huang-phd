@@ -46,6 +46,9 @@ Log
 | [Regular Progress update](minutes/2026/30_July_2026.md) | 1h | 30<sup>th</sup> July 2026 |
 | [Regular Progress update](minutes/2026/31_July_2026.md) | 1h | 31<sup>st</sup> July 2026 |
 | [Regular Progress update](minutes/2026/03_Aug_2026.md) | 1h | 03<sup>th</sup> Aug 2026 |
+| [Regular Progress update](minutes/2026/04_Aug_2026.md) | 1h | 04<sup>th</sup> Aug 2026 |
+| [Regular Progress update](minutes/2026/06_Aug_2026.md) | 1h | 06<sup>th</sup> Aug 2026 |
+| [Regular Progress update](minutes/2026/07_Aug_2026.md) | 1h | 07<sup>th</sup> Aug 2026 |
 
 
 
